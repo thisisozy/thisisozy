@@ -1,11 +1,9 @@
-# **Hi there! 👋**
+# **Hello**
 
 ### Tools:
 + C++
 + C#
 + Python
 + Java
-+ JS
-+ HTML
-+ CSS
++ JS (TS)
 + SQL
