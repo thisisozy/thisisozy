@@ -1,7 +1,6 @@
 # **Hello**
 
 ### Tools:
-+ C++
 + C#
 + Python
 + Java
